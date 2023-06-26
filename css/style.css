@@ -206,3 +206,26 @@ video {
     float: center;
     line-height: 15px;
 }
+
+.library {
+    color: #fff;
+    margin-top: 60px;
+    font-size: 16px;
+    font-family: verdana;
+    font-weight: lighter;
+    font-style: normal;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 15px;  
+}
+
+.library_a {
+    text-decoration: none;
+    color: #fff;
+    -webkit-transition: all .2s ease;
+        transition: all .2s ease;
+}
+
+.library_a:hover {
+    color: #d1d1d1;
+}
